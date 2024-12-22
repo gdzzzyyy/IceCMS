@@ -1,5 +1,5 @@
 FROM mysql:8.0
-MAINTAINER BolingCavalry <zq2599@gmail.com>
+MAINTAINER BolingCavalry <gdzy520@gmail.com>
 
 ENV WORK_PATH /usr/local/work
 ENV AUTO_RUN_DIR /docker-entrypoint-initdb.d
